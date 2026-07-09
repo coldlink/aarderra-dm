@@ -1,0 +1,20 @@
+{
+  "/": [
+    "Aarderra",
+    "Adventures",
+    "Codex"
+  ],
+  "/Adventures": [
+    "2026-07 - AirDnD"
+  ],
+  "/Adventures/2026-07 - AirDnD": [
+    "An Invitation from High Warden Ludovico Sartori"
+  ],
+  "/Codex": [
+    "Factions and Organisations",
+    "Gods",
+    "Magic",
+    "People",
+    "Places and Navigation"
+  ]
+}
