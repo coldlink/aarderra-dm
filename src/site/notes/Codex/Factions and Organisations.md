@@ -22,7 +22,9 @@ The guild serves as the industrial link balancing [[Codex/Factions and Organisat
 
 ## Florini
 
-The ultra-wealthy, elite, merchant families that sit at the absolute top of the Calmarean hierarchy.
+The Florini are the three elite, ultra-wealthy merchant dynasties (or great houses) that rule the global economy of Aarderra as massive corporate syndicates.
+
+They systematically absorbed nearly all independent trade guilds into their pipelines, creating an absolute monopoly on the world's resources, manufacturing, and commoditised magic.
 
 The primary three families being the [[Codex/Factions and Organisations#Van Raccolto family\|#Van Raccolto family]], the [[Codex/Factions and Organisations#Salvaren family\|#Salvaren family]], and the [[Codex/Factions and Organisations#Orolumen family\|#Orolumen family]].
 

@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/adventures/2026-07-air-dn-d/an-invitation-from-high-warden-ludovico-sartori/","dg-note-properties":{"date":"2026-07-24"}}
+---
+
+![an-invite.png](/img/user/_assets/an-invite.png)
+
+You are cordially invited to celebrate the unveiling of the next paradigm-shifting innovation in clockwork automated textile weaving.
+
+To mark this momentous occasion, I, [[Codex/People#High Warden Ludovico Sartori\|High Warden Ludovico Sartori]] of the [[Codex/Places and Navigation#The Dijendam Entrepôts\|Places and Navigation#The Dijendam Entrepôts]], invite you to grace the halls of [[Codex/Places and Navigation#Castle Marblyash\|Castle Marblyash]] for an evening of unmatched revelry, celebration, and a grand toast to the future of [[Codex/Factions and Organisations#The Eitra of Drapers\|The Eitra of Drapers]].
+
+The formidable Drift Weaver Players will be performing a one-night-only production of Tape Measure Murder.
+
+Arrival: Sundown
+Curtains up: Twilight  
+Carriages: Sunrise
+
+RSVP
+
+Ludovico Sartori  
+High Warden of the Dijendam Entrepôts, The Eitra of Drapers
