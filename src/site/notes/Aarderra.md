@@ -6,7 +6,7 @@
 
 To look upon ***[[Codex/Places and Navigation#Aarderra\|Aarderra]]*** is to look upon a monument of high opulence. Its vistas unfold from sun-drenched olive groves and terracotta farmlands to bustling, timber-scaffolded stone harbours with tall-masted galleons. Witness the renaissance as this gilded era stands as a triumphant dawn of high art, soaring philosophy, and magnificent science and magic. Unprecedented innovation has been woven seamlessly into the fabric of daily life.
 
-Come explore the libraries, the artisan workshops, the apothecaries, the universities and markets. All propelled forward by the esteemed mass craftsmanship of the ***[[Codex/Factions and Organisations#Eitra\|Factions and Organisations#Eitra]]*** (guilds) owned by the vast wealth of the merchant families, collectively known as the ***[[Codex/Factions and Organisations#Florini\|Florini]]***, and all overseen by the Church of the God of Justice, the ***[[Codex/Factions and Organisations#Molisyni\|Molisyni]]***.
+Come explore the libraries, the artisan workshops, the apothecaries, the universities and markets. All propelled forward by the esteemed mass craftsmanship of the ***[[Codex/Factions and Organisations#Eitra\|Eitra]]*** (guilds) owned by the vast wealth of the merchant families, collectively known as the ***[[Codex/Factions and Organisations#Florini\|Florini]]***, and all overseen by the Church of the God of Justice, the ***[[Codex/Factions and Organisations#Molisyni\|Molisyni]]***.
 
 Amidst the marble palaces and the cobbled docks, who will you become?
 
