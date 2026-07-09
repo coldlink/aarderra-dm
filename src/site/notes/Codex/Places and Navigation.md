@@ -50,19 +50,19 @@ Because Calamarea sits at the absolute centre of the world projection and acts a
 
 ## Units
 
-**Tide:**
-	The standard unit of radial distance used across Aarderra, roughly the same as **one league (3 miles / 5 kilometers)**. On all official maps and navigational charts, the concentric grid lines correspond directly to this measurement, offering a simple, universal way for travellers to see exactly how many Tides away they are from Calamarea. A standard day's overland march covers exactly 8 Tides (24 miles).
+**Tide/Leage:**
+	The standard unit of radial distance used across Aarderra. A tide/leage is roughly the same as **3 miles / 5 kilometers**. On all official maps and navigational charts, the concentric grid lines correspond directly to this measurement, offering a simple, universal way for travellers to see exactly how far away they are from Calamarea.
 
 ## Directions
 
-**Uptide (North):**
+**Uptide/North**
 	Radial movement or alignment traveling directly _inward_ toward the center of Calamarea. To travel Uptide is to travel North, following the compass needle towards the city.
 
-**Downtide (South):**
+**Downtide/South**
 	Radial movement or alignment traveling directly _outward_ away from Calamarea. To travel Downtide is to travel South, watching the compass needle point behind you and leaving the city behind.
 
-**Destral (West):**
+**Destral/West**
 	Orbital movement tracking _clockwise_ around the circular global axis. To travel Destral is to travel West, keeping the city of Calamarea positioned steadily on your right-hand side.
 
-**Sinistral (East):**
+**Sinistral/East**
 	Orbital movement tracking _counter-clockwise_ around the circular global axis. To travel Sinistral is to travel East, keeping the city of Calamarea positioned steadily on your left-hand side.
