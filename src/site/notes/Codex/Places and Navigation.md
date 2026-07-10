@@ -34,7 +34,7 @@ Under its magnificent stained-glass domes and frescoed walls, high society gathe
 
 ### Dijendam
 
-A mid-sized, industrious river port town driven by traditional textile mills, towering cloth factories, and shipping docks. Situated many hundreds of tides downtide from [[Codex/Places and Navigation#Calamarea\|#Calamarea]] and along the River Dijen, it represents the tipping point where high-class mechanics begin encroaching on traditional manual industries. All [[Codex/Factions and Organisations#Florini\|three families]] are heavily involved in the economy of the town.
+A mid-sized port town driven by the rhythmic clatter of its booming textile industry, towering cloth mills, and shipping docks. Situated many hundreds of [[Codex/Places and Navigation#Navigation\|tides downtide]] from [[Codex/Places and Navigation#Calamarea\|#Calamarea]] and along the River Dijen. All [[Codex/Factions and Organisations#Florini\|three families]] are heavily involved in the economy of the town.
 
 #### The Dijendam Entrepôts
 
