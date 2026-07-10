@@ -41,7 +41,7 @@ The Salvarens maintain absolute authority over the physical movement of goods, m
 ### Orolumen family
 *Artisanal & Manufacturing*
 
-The Orolumen syndicate hold a monopoly on artisanal craftsmanship, taking refined metals, fibres, and components and transforming them into clockwork machinery, textiles, and practical consumer goods.
+The Orolumen syndicate hold a monopoly on artisanal craftsmanship, taking refined metals, fibres, and components and transforming them into arcane machinery, textiles, and practical consumer goods.
 
 ## Molisyni
 

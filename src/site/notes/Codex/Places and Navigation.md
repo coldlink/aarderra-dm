@@ -28,7 +28,7 @@ The vast expanse of civilised land directly governed and taxed by the capital ci
 
 The sprawling marble heart of the world, its capital, and the literal magnetic north pole of [[Codex/Places and Navigation#Aarderra\|#Aarderra]]. A sprawling metropolis where sleek gondolas glide through an intricate labyrinth of emerald canals and drift beneath sweeping stone arches.
 
-Under its magnificent stained-glass domes and frescoed walls, the high society gathers to debate philosophy and patronise the grand opera houses, wrapped in a seamless tapestry of lavish magic, discreet clockwork, and the eternal, brilliant glow of a civilisation at its peak.
+Under its magnificent stained-glass domes and frescoed walls, high society gathers to debate philosophy and patronise the grand opera houses, wrapped in a seamless tapestry of lavish magic, discreet clockwork, and the eternal, brilliant glow of a civilisation at its peak.
 
 ## Towns
 
