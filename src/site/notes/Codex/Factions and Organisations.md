@@ -45,6 +45,6 @@ The Orolumen syndicate hold a monopoly on artisanal craftsmanship, taking refine
 
 ## Molisyni
 
-The global mercantile church, worshipping the God of Justice, [[Codex/Gods#Forestii\|Forestii]]. The central banking empire, and primary custodian of civil society.
+The global mercantile church and central banking empire of [[Codex/Places and Navigation#Aarderra\|Aarderra]], serving as the primary custodian of civil society. Worshipping [[Codex/Gods#Forestii\|Forestii]], the God of Justice, the Molisyni manages the grand financial lines of the world.
 
-Driven by a philosophy of divine stewardship and balanced ledger books, the Molisyni manages the grand financial lines of the world.
+The entire institution is driven by a rigid philosophy of divine stewardship, operating under the theological belief that true societal harmony can only be achieved through a perfectly balanced ledger.
