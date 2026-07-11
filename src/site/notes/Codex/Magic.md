@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/codex/magic/","dg-note-properties":{}}
 ---
 
-In Aarderra, magic is not an esoteric, mystical secret hidden away in dusty ancient tombs, it is a completely ordinary part of daily life that everyone knows, uses, and takes for granted.
+In [[Codex/Places and Navigation#Aarderra\|Aarderra]], magic is not an esoteric, mystical secret hidden away in dusty ancient tombs, it is a completely ordinary part of daily life that everyone knows, uses, and takes for granted.
 
 It operates as a commercialised utility woven into the modern world, meaning if you can dream up a household convenience, the guilds have likely mass-produced it, stamped it with a guild sigil, and taxed it.
 
